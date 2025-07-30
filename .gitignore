@@ -1,0 +1,29 @@
+# Compiled executables
+*.exe
+*.out
+reconstruction_gupta
+unit_tests
+
+# Object files
+*.o
+*.obj
+
+# Output files (keeping sample output for demo)
+test_input.csv
+# Note: output_mbp.csv is tracked to show program results
+
+# Debug files
+*.pdb
+
+# IDE files
+.vscode/
+*.vcxproj*
+*.sln
+
+# System files
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
